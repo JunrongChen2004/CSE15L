@@ -6,7 +6,7 @@ Junrong Chen
 ### Example 1: Using the command with no arguments
 ![No arguments](https://github.com/JunrongChen2004/CSE15L/assets/122309066/6427e105-318f-4876-b13c-d38449ebf6fb)
 - **Working directory**: /Users/chenjunrong
-- **Explanation**: When you use cd with no arguments, it doesn't change your working directory; it simply keeps you in the current directory.
+- **Explanation**: When you use cd with no arguments, it doesn't change your working directory; it simply takes you back to the home directory.
 - **Error**: The output is not an error. It successfully changes the working directory to the user's home directory.
 
 ### Example 2: Using the command with a path to a directory as an argument
