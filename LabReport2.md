@@ -10,7 +10,7 @@ A method called handleRequest in my code and main method was called
 
 ### What are the relevant arguments to those methods, and the values of any relevant fields of the class?
 /add-message?s=pineapple; messages is initially empty, sequenceNumber is initially 1
-/add-message?s=hello; messages contains "1. Hello", sequenceNumber is 2.
+/add-message?s=hello; messages contains "1. Pineapple", sequenceNumber is 2.
 
 ### How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why
 After the request, messages contains "1. Hello", and sequenceNumber is incremented to 2.
