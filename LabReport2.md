@@ -6,7 +6,7 @@ Junrong Chen
 ![Adding2](https://github.com/JunrongChen2004/CSE15L/assets/122309066/c454a4ba-0d26-4542-b25e-7ecc74d255d7)
 
 ### Which methods in your code are called?
-A method called handleRequest in my code was called
+A method called handleRequest in my code and main method was called
 
 ### What are the relevant arguments to those methods, and the values of any relevant fields of the class?
 /add-message?s=pineapple
