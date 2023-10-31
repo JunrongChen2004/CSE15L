@@ -1,4 +1,3 @@
-<img width="770" alt="屏幕快照 2023-10-31 上午11 10 55" src="https://github.com/JunrongChen2004/CSE15L/assets/122309066/382d43e9-87aa-4316-8ab6-42690592d698"># Lab Report 2
 Junrong Chen
 
 ## Part 1:
