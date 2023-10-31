@@ -1,3 +1,4 @@
+# Lab Report 2
 Junrong Chen
 
 ## Part 1:
