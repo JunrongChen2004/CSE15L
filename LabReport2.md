@@ -2,7 +2,44 @@
 Junrong Chen
 
 ## Part 1:
-![code](https://github.com/JunrongChen2004/CSE15L/assets/122309066/f9560c06-03b5-4e26-bd0a-ab837298d42f)
+```Java
+import java.io.IOException;
+import java.net.URI;
+import java.util.ArrayList;
+import java.util.List;
+
+class StringHandler implements URLHandler {
+    private List<String> messages = new ArrayList<>();
+    private int sequenceNumber = 1;
+
+    public String handleRequest(URI url) {
+        if (url.getPath().equals("/add-message")) {
+            String query = url.getQuery();
+            String[] parts = query.split("=");
+            if (parts.length == 2 && parts[0].equals("s")) {
+                String message = parts[1];
+                messages.add(sequenceNumber + ". " + message);
+                sequenceNumber++;
+                return String.join("\n", messages);
+            }
+        }
+        return "Hello StringServer";
+    }
+}
+
+class StringServer {
+    public static void main(String[] args) throws IOException {
+        if (args.length == 0) {
+            System.out.println("Missing port number! Try any number between 1024 to 49151");
+            return;
+        }
+
+        int port = Integer.parseInt(args[0]);
+
+        Server.start(port, new StringHandler());
+    }
+}
+```
 ![Adding1](https://github.com/JunrongChen2004/CSE15L/assets/122309066/05740815-0fd6-4ee2-b4f7-37621c356661)
 ![Adding2](https://github.com/JunrongChen2004/CSE15L/assets/122309066/c454a4ba-0d26-4542-b25e-7ecc74d255d7)
 
