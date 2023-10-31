@@ -1,7 +1,8 @@
-# Lab Report 2
+<img width="770" alt="屏幕快照 2023-10-31 上午11 10 55" src="https://github.com/JunrongChen2004/CSE15L/assets/122309066/382d43e9-87aa-4316-8ab6-42690592d698"># Lab Report 2
 Junrong Chen
 
 ## Part 1:
+![code](https://github.com/JunrongChen2004/CSE15L/assets/122309066/f9560c06-03b5-4e26-bd0a-ab837298d42f)
 ![Adding1](https://github.com/JunrongChen2004/CSE15L/assets/122309066/05740815-0fd6-4ee2-b4f7-37621c356661)
 ![Adding2](https://github.com/JunrongChen2004/CSE15L/assets/122309066/c454a4ba-0d26-4542-b25e-7ecc74d255d7)
 
