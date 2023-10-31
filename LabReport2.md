@@ -21,6 +21,7 @@ After the request, messages now contains "1. Hello\n2. How are you", and sequenc
 ### Location of Private Key: id_rsa
 ![Private&Public Key](https://github.com/JunrongChen2004/CSE15L/assets/122309066/8f267a11-2b9d-43b2-9842-6189e5cbe835)
 ![without password](https://github.com/JunrongChen2004/CSE15L/assets/122309066/473c0236-472d-4387-884a-438b70e69a7f)
+Private key is located in id_rsa.
 
 ## Part 3:
 
