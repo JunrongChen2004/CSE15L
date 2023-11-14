@@ -6,7 +6,7 @@ Junrong Chen
 
 
 ## Edit the code file to fix the failing test (Keys pressed)
-<CtrlD><CtrlD><CtrlD><right><right><right><right><right><right><i><2><esc><:wq>
+key pressed: <CtrlD><CtrlD><CtrlD>, <right><right><right><right><right><right>, <i><2><esc><:wq>
 
 ## Run the tests, demonstrating that they now succeed
 ![succeeded test](https://github.com/JunrongChen2004/CSE15L/assets/122309066/5cc74e35-382f-4033-af66-d1fa788874ef)
