@@ -6,7 +6,7 @@ Junrong Chen
 
 
 ## Edit the code file to fix the failing test (Keys pressed)
-key pressed: <CtrlD><CtrlD><CtrlD>, <right><right><right><right><right><right>, <i><2><esc><:wq>
+Keys pressed: <CtrlD><CtrlD><CtrlD>,the command of index1+=1; is line 44 in the file ListExamples.java,<right><right><right><right><right><right>, and the number 1 I need to change to 2 is number 6 in the line, so I access the code and edit it using <i><2><esc><:wq>
 
 ## Run the tests, demonstrating that they now succeed
 ![succeeded test](https://github.com/JunrongChen2004/CSE15L/assets/122309066/5cc74e35-382f-4033-af66-d1fa788874ef)
