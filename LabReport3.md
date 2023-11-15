@@ -54,6 +54,53 @@ The fix swaps elements properly by using a temporary variable to hold the value 
 ```Bash
 grep -i "develop" /Users/chenjunrong/Downloads/docsearch/technical/plos/journal.pbio.0020001.txt
 ```
+```Bash
+        the clear inequalities in science between developing and developed countries and to the
+        importance of reducing the inequalities in science between developed and developing
+        serious problems not only for the scientific community in the developing countries, but for
+        development itself.” Indeed, Mr. Annan's sentiments have also been echoed recently by
+        output between the developing and already developed countries (Gibbs 1995; May 1997;
+        developed countries accounted for some 84% of the global investment in scientific research
+        and development, had approximately 72% of the world researchers, and produced approximately
+        2001). But is the disparity in scientific contributions between the developed and
+        developing worlds actually remaining unchanged or even increasing, as Mr. Annan has
+        developing countries. For example, Latin America and China, although representing,
+        publications between the developed world and the developing world from 1990 until 2000,
+        and development (May 1997). The proportional change in the number of publications, using
+        invested in research and development for each region, also show that, in contrast to both
+        cheaper in the developing world due to relatively low researcher salaries, overhead and
+        of publications per amount of money allocated to research and development in Latin America,
+        demonstrate that such developing regions as Latin America are making substantial
+        of its resources in scientific research and development. Latin American investment in
+        research and development represented only 0.59% of the regional GDP in 1998, a very weak
+        development investment in the 10 years studied, which is notoriously high compared with
+        research and development than the other countries of this region (Albornoz 2001).
+            development been increasing in Latin America while decreasing in United States and
+        is that scientific development during the 1990s was particularly strong for many countries
+        research and development has been increasing in Latin America while decreasing in the
+        funding to the most productive scientists from the national science development programs
+        What, exactly, is the relative impact of such developing regions as Latin America on the
+        with 4% in the top 10). These findings suggest that publications from such developing
+        (Swinbanks et al. 1997) and thus could be a general phenomenon in the developing world.
+        Although there are outstanding scientific researchers in the developing world who
+        and that the top journals, which are published in the developed world, respond more to the
+        scientific mainstream of the developed regions. This is not to suggest any sort of
+        developed regions are listed by the SCI than similar journals from developing regions
+        available to scientists from the developed region, whereas much of the research published
+        locally in the developing world is overlooked. But it takes more than publishing good
+        meetings for researchers in the developing compared with the developed world.
+        developing world (Goldemberg 1998; Annan 2003). One is that science, as a discipline, would
+        readily with the cooperation and scientific insight of scientists from developing regions.
+        from those developing regions that are so important for these global processes. It is also
+        critical for the developing world to promote, through research and publications, those
+        them. There are now examples in which research on priority areas for the developing nations
+        examples are important not only for those regions of the developing world, but are also in
+            input from those developing regions that are so important for global processes.
+        developing countries contribute a more equitable share to the international scientific
+        development, demonstrates that many developing countries are heading in the right
+        direction. The extremely high scientific productivity of many developing nations, corrected
+        to the sciences will be an excellent investment by developing nations in terms of
+```
 ![grep -i files](https://github.com/JunrongChen2004/CSE15L/assets/122309066/aec42645-e728-4a7a-943b-a17c1155d68d)
 Displays all lines in journal.pbio.0020001.txt containing "develop" ignoring case.
 
