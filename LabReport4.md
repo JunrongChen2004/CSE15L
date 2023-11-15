@@ -3,6 +3,8 @@ Junrong Chen
 
 ## Run the tests, demonstrating that they fail
 ![fail-tests](https://github.com/JunrongChen2004/CSE15L/assets/122309066/42490cc5-4fef-4f37-ac28-3d98abb1c446)
+### Keys Pressed:
+type: `<bash test.sh><enter>`in order to run the jUnit test results
 
 
 ## Edit the code file to fix the failing test
