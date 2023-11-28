@@ -63,3 +63,6 @@ Running the command of `bash LabReport4.sh` will run the script inside the bash 
 Entering number 1 and 2 will get the result of -1, which is actually the difference between the two numbers.
 So there should be something wrong in the calculation part.
 Change the minus sign in Line 13 to plus sign since it is calculating sum. 
+
+## Reflection
+During the second half of this quarter, I delved into different commands of Bash and also how to write a Bash script, a topic that I had some familiarity with but had not explored in depth. This experience not only broadened my understanding of the command-line interface but also allowed me to grasp the intricacies of scripting, empowering me to automate tasks efficiently. Collaborating with classmates during this exploration enriched my learning, as we shared valuable insights and problem-solving approaches. Overall, this journey into Bash scripting has not only enhanced my technical skills but also deepened my appreciation for the power and versatility of command-line tools in streamlining computational tasks.
