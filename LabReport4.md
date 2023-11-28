@@ -14,15 +14,15 @@ type `<git clone>` as it is the command for cloning `<command><v>` as I have alr
 ## Run the tests, demonstrating that they fail
 ![fail-tests](https://github.com/JunrongChen2004/CSE15L/assets/122309066/42490cc5-4fef-4f37-ac28-3d98abb1c446)
 ### Keys Pressed:
-type:`<bash test.sh>`and press `<enter>`in order to run the jUnit test results
+- Type `<cd lab7>` in order to change directory to lab7
+- Type `<bash test.sh>`and press `<enter>`in order to run the jUnit test results
 
 ## Edit the code file to fix the failing test
 ![fix-bug](https://github.com/JunrongChen2004/CSE15L/assets/122309066/f438f299-e7e2-44e8-b9b8-f36c9f475d2d)
 **Keys Pressed:**
-- Type `<cd lab7>` in order to change directory to lab7
 - Type `<vim ListExamples.java>` and press `<enter>` in order to open the java file in the terminal for further edit.
 - Pressed `<Ctrl-D>` three times to quickly exit the current prompt.
-- In the file `ListExamples.java`, located the line 44 where `index1 += 1;` is present.
+- In the file `ListExamples.java`, press `<down arrow>` for 43 times to located the line 44 where `index1 += 1;` is present.
 - Used `<right>` arrow key six times to move the cursor to the number 1 in `index1`.
 - Entered the text editor with `<i>` for insert mode, replaced the number 1 with 2, and exited with `<Esc>` to exit the insert mode, followed by `<:wq>`, which is exit the vim mode and then `<enter>` to run the `:wq` command.
 
