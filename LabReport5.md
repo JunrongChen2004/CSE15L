@@ -10,6 +10,8 @@ I've double-checked my code, and it seems fine to me. Can someone help me figure
 <img width="541" alt="屏幕快照 2023-11-27 下午9 40 14" src="https://github.com/JunrongChen2004/CSE15L/assets/122309066/df375971-5b78-43e4-8b3a-86086df451bf">
 <img width="445" alt="屏幕快照 2023-11-27 下午10 26 29" src="https://github.com/JunrongChen2004/CSE15L/assets/122309066/6e34bf20-28c0-4762-bf4f-94c64351ebac">
 <img width="546" alt="屏幕快照 2023-11-27 下午10 27 03" src="https://github.com/JunrongChen2004/CSE15L/assets/122309066/b2fd74c3-83a0-40e1-a14b-4c9aa206f194">
+<img width="261" alt="屏幕快照 2023-12-03 下午9 04 30" src="https://github.com/JunrongChen2004/CSE15L/assets/122309066/f286f36d-1d92-4400-8393-591e894a4851">
+
 I appreciate any help you can provide!
 
 ## TA Response
@@ -25,8 +27,10 @@ Thank you! The bug is fixed. Now my code looks like this. It worked well. The bu
 
 ## Setup Information
 **File & Directory Structure:**
-- SumCalculator
+- LabReport5
   - SumCalculator.java
+  - SumCalculator.class
+  - LabReport5.sh
 **Contents of SumCalculator.java (before fixing the bug):**
 ```java
 import java.util.Scanner;
