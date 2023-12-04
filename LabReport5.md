@@ -24,6 +24,9 @@ Can you try modifying that line and see if it resolves the problem?
 ## Student FollowUp
 Thank you! The bug is fixed. Now my code looks like this. It worked well. The bug seems like to be I accidentally wrote minus where it should be plus!
 <img width="496" alt="屏幕快照 2023-11-27 下午9 54 34" src="https://github.com/JunrongChen2004/CSE15L/assets/122309066/f43e6654-1977-4683-a76c-c6564f35c3ef">
+The output I tried is also shown here:
+<img width="556" alt="屏幕快照 2023-12-03 下午9 08 47" src="https://github.com/JunrongChen2004/CSE15L/assets/122309066/0d737706-9117-443e-ae62-262fc7345a3c">
+
 
 ## Setup Information
 **File & Directory Structure:**
